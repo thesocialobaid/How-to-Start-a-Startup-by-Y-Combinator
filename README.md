@@ -1,4 +1,4 @@
-#How to Start a Startup: A Definitive Guide 
+###How to Start a Startup: A Definitive Guide 
 
 _**A curated Distillation of Y-Combinator's legendary series with real-world insights**_
 
