@@ -4,6 +4,8 @@ _**A curated Distillation of Y-Combinator's legendary series with real-world ins
 
 This repository is a comprehensive breakdown of the YC "How to Start a Startup" curriculum. It combines core notes from the original lectures with a critical look at what works and what doesn't in today's startup ecosystem. 
 
+Youtube Link - https://www.youtube.com/watch?v=CBYhVcO4WgI
+
 ## Project Overview 
 The goal of this repo is to move beyond passive watching, and it provides:
 
